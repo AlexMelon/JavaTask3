@@ -16,7 +16,7 @@ public class Main {
         library.addBook(book2);
 
         //Remove books by id
-        library.removeBookById(001);
+        library.removeBookById(002);
 
         // Display all books
         System.out.println("Books in the library:");
